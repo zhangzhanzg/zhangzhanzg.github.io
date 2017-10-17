@@ -2,4 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 
+    
+  <url>
+    <loc>https://zhangzhanzg.github.io/2017/03/28/JenkinsCI/</loc>
+    <lastmod>2017-10-12T04:06:27.920Z</lastmod>
+    <data>
+        <display>
+        <title>基于【Jenkins+GitLab+蒲公英】构建iOS持续化集成</title>
+        <pubTime>2017-03-28T09:41:32.000Z</pubTime>
+        
+        <tag>Jenkins</tag>
+         
+        <tag>GitLab</tag>
+         
+        <tag>iOS</tag>
+         
+        <tag>CI</tag>
+         
+         
+           
+             
+              <breadCrumb title="技术" url="https://zhangzhanzg.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+    
+    
+  <url>
+    <loc>https://zhangzhanzg.github.io/2017/03/17/Hexo%E7%9A%84%E6%8A%98%E8%85%BE/</loc>
+    <lastmod>2017-10-12T04:06:27.919Z</lastmod>
+    <data>
+        <display>
+        <title>生命不息，折腾不止</title>
+        <pubTime>2017-03-17T06:11:05.000Z</pubTime>
+        
+        <tag>Hexo</tag>
+         
+         
+           
+             
+              <breadCrumb title="闲谈" url="https://zhangzhanzg.github.io/categories/%E9%97%B2%E8%B0%88/"/>
+          
+        </display>
+    </data>
+    </url>
+
 </urlset>
